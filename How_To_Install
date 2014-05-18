@@ -1,0 +1,13 @@
+How to install the JUFC API (and generally all the others APIs):
+	-Open up Eclipse.
+	-Create a new project.
+	-Right-click on it, select Build Path ---> Configure Build Path.
+	-Go to the "Libaries" tab.
+	-Click on "Add External Jars".
+	-Select the build file that you've downloaded from the builds folder.
+
+You're done ! You can now begin using the JUFC API ! Good luck !
+	
+	~Regex from the AlphaSwittleTeam
+		-Creator of the JUFC.
+		
