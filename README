@@ -1,0 +1,23 @@
+JUFC (Java Utilities For Coders) is a little API meant to help the coders to do repeated actions like copying, downloading or deleting files.
+
+You can download the source code and edit it as you want, this is just a preview of all the functionalities that are included.
+
+~Regex from the AlphaSwittleTeam
+	-Creator of the JUFC.
+
+Changelog:
+	- Version O.O1 released publically !
+		Functionalities:
+			-File copying/moving/deleting.
+			-Folder copying/moving/deleting/emptiying.
+			-File downloading (HTTP + HTTPS protocols).
+			-Simple logger.
+			-Started the JGUIU project (WIP).		
+		
+		Seconday functionalities:
+			-File unzipping (.zip only).
+			-A timestamp class.
+			-A datestamp class.
+
+	- Next version : 0.02
+		DEV
